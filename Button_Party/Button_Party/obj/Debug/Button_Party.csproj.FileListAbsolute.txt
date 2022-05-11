@@ -1,0 +1,28 @@
+C:\Users\ΦΑΤΟΥΡΟΣ\Desktop\Informatics\3rd Semester\CSharp\Workspace(ws)\Button_Party\Button_Party\bin\Debug\Button_Party.exe.config
+C:\Users\ΦΑΤΟΥΡΟΣ\Desktop\Informatics\3rd Semester\CSharp\Workspace(ws)\Button_Party\Button_Party\bin\Debug\Button_Party.exe
+C:\Users\ΦΑΤΟΥΡΟΣ\Desktop\Informatics\3rd Semester\CSharp\Workspace(ws)\Button_Party\Button_Party\bin\Debug\Button_Party.pdb
+C:\Users\ΦΑΤΟΥΡΟΣ\Desktop\Informatics\3rd Semester\CSharp\Workspace(ws)\Button_Party\Button_Party\obj\Debug\Button_Party.csprojAssemblyReference.cache
+C:\Users\ΦΑΤΟΥΡΟΣ\Desktop\Informatics\3rd Semester\CSharp\Workspace(ws)\Button_Party\Button_Party\obj\Debug\Button_Party.Form1.resources
+C:\Users\ΦΑΤΟΥΡΟΣ\Desktop\Informatics\3rd Semester\CSharp\Workspace(ws)\Button_Party\Button_Party\obj\Debug\Button_Party.Properties.Resources.resources
+C:\Users\ΦΑΤΟΥΡΟΣ\Desktop\Informatics\3rd Semester\CSharp\Workspace(ws)\Button_Party\Button_Party\obj\Debug\Button_Party.csproj.GenerateResource.cache
+C:\Users\ΦΑΤΟΥΡΟΣ\Desktop\Informatics\3rd Semester\CSharp\Workspace(ws)\Button_Party\Button_Party\obj\Debug\Button_Party.csproj.CoreCompileInputs.cache
+C:\Users\ΦΑΤΟΥΡΟΣ\Desktop\Informatics\3rd Semester\CSharp\Workspace(ws)\Button_Party\Button_Party\obj\Debug\Button_Party.exe
+C:\Users\ΦΑΤΟΥΡΟΣ\Desktop\Informatics\3rd Semester\CSharp\Workspace(ws)\Button_Party\Button_Party\obj\Debug\Button_Party.pdb
+C:\Users\George\Desktop\Button_Party\Button_Party\bin\Debug\Button_Party.exe.config
+C:\Users\George\Desktop\Button_Party\Button_Party\bin\Debug\Button_Party.exe
+C:\Users\George\Desktop\Button_Party\Button_Party\bin\Debug\Button_Party.pdb
+C:\Users\George\Desktop\Button_Party\Button_Party\obj\Debug\Button_Party.csprojAssemblyReference.cache
+C:\Users\George\Desktop\Button_Party\Button_Party\obj\Debug\Button_Party.Form1.resources
+C:\Users\George\Desktop\Button_Party\Button_Party\obj\Debug\Button_Party.Properties.Resources.resources
+C:\Users\George\Desktop\Button_Party\Button_Party\obj\Debug\Button_Party.csproj.GenerateResource.cache
+C:\Users\George\Desktop\Button_Party\Button_Party\obj\Debug\Button_Party.exe
+C:\Users\George\Desktop\Button_Party\Button_Party\obj\Debug\Button_Party.pdb
+C:\Users\George\Desktop\compillers-ergasies\Button_Party\Button_Party\bin\Debug\Button_Party.exe.config
+C:\Users\George\Desktop\compillers-ergasies\Button_Party\Button_Party\bin\Debug\Button_Party.exe
+C:\Users\George\Desktop\compillers-ergasies\Button_Party\Button_Party\bin\Debug\Button_Party.pdb
+C:\Users\George\Desktop\compillers-ergasies\Button_Party\Button_Party\obj\Debug\Button_Party.csprojAssemblyReference.cache
+C:\Users\George\Desktop\compillers-ergasies\Button_Party\Button_Party\obj\Debug\Button_Party.Form1.resources
+C:\Users\George\Desktop\compillers-ergasies\Button_Party\Button_Party\obj\Debug\Button_Party.Properties.Resources.resources
+C:\Users\George\Desktop\compillers-ergasies\Button_Party\Button_Party\obj\Debug\Button_Party.csproj.GenerateResource.cache
+C:\Users\George\Desktop\compillers-ergasies\Button_Party\Button_Party\obj\Debug\Button_Party.exe
+C:\Users\George\Desktop\compillers-ergasies\Button_Party\Button_Party\obj\Debug\Button_Party.pdb
