@@ -1,0 +1,22 @@
+reservation_id,room_number,facility_name
+1,101,Spa Services
+2,102,Leather Arm Chairs
+2,102,Spa Services
+3,103,Inner Heated Pool
+4,105,Luxurious Mini Bar
+5,105,Massage
+5,105,Spa Services
+7,108,AC
+7,108,TV
+9,109,Inner Heated Pool
+9,109,Room Service
+11,111,TV
+12,112,Basic Mini Bar
+12,112,TV
+12,112,AC
+16,116,Room Service
+16,116,Inner Heated Pool
+16,116,TV
+18,118,Luxurious Mini Bar
+20,120,Luxurious Mini Bar
+20,120,Inner Heated Pool
